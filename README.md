@@ -12,4 +12,5 @@ Requirements:
 You must only change token bot to your discord token bot https://discord.com/developers/ (select or create application click on bot and copy bot token)<br>
 You can change the prefix or command name, etc. but it's up to you <br>
 
-If you don't know how to run bot type <i>node index.js<i> in your terminal
+If you don't know how to run bot type <i>node index.js<i> in your terminal<br>
+If you don't have bot files type <i>npm init</i> in your terminal
