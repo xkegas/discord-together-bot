@@ -13,4 +13,4 @@ You must only change token bot to your discord token bot https://discord.com/dev
 You can change the prefix or command name, etc. but it's up to you <br>
 
 If you don't know how to run bot type <i>node index.js<i> in your terminal<br>
-If you don't have bot files type <i>npm init</i> in your terminal
+If you don't have bot files type <i>npm init</i> in your terminal (and be sure to run this command in right folder)
